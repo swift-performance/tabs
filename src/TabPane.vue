@@ -95,7 +95,7 @@ export default {
       return {
         'tab-pane': true,
         'animated': true,
-        'is-active': realSelected,
+        'active': realSelected,
         'is-deactive': !realSelected
       }
     },
